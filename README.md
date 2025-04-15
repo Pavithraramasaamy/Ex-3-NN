@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME : PAVITHRA R</H3>
+<H3>ENTER YOUR REGISTER NO : 212222230106</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE:15-04-2025</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
@@ -100,6 +100,7 @@ for test in test_inputs:
 
 <H3>Output:</H3>
 
+![image](https://github.com/user-attachments/assets/8219d672-5711-431e-9a90-52632a26b1d9)
 
 
 
